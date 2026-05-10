@@ -1,0 +1,5 @@
+# Ignore project plan and typst report files
+Project-Plan.md
+README-Typst.md
+typst-report/
+Report/
